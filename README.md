@@ -28,6 +28,10 @@ Mentor challenge to recreate the given task as accurately as possible.
 
 ![](./completed-screenshot.png)
 
+### Links
+
+- [Live Site URL](https://slimbloodworth.github.io/ProfileCardComponent/)
+
 
 
 
