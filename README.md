@@ -56,7 +56,7 @@ Mentor challenge to recreate the given task as accurately as possible.
 
 ### Useful resources
 
-- [YouTube](https://www.youtube.com/watch?v=mEK7MOChNHA) - This video helped me get unstuck a cpuple of times.
+- [YouTube](https://www.youtube.com/watch?v=mEK7MOChNHA) - This video helped me get unstuck.
 
 
 ## Author
@@ -75,6 +75,6 @@ Mentor challenge to recreate the given task as accurately as possible.
 ## Support
 
 - I would really like feed back on better organinzing and drying out this code.
-- I would also like questions on whay I may have done something a certain way.
+- I would also like questions on why I may have done something a certain way.
 - I would love feedback on tips and better useage of classes.
 - All feedback is welcome and appreciated!
